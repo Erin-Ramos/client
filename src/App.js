@@ -1,8 +1,6 @@
 import React from 'react';
 import PostCreate from './PostCreate';
 import PostList from './PostList';
-import CommentCreate from './CommentCreate';
-import CommentList from './CommentList';
 
 const App = () => {
     return <div className="container">
